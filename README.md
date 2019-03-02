@@ -7,19 +7,18 @@ and make an pull request.
 - Rest Framework
 
 I have many other implementations of this server:
-- [Spring Boot + Spring Data + Jersey]()
-- [Spring Boot + Spring Data]()
-- [Go with Gin Gonic]()
-- [Laravel]()
-- [Rails + JBuilder]()
-- [Rails]()
-- [NodeJs Express + Sequelize]()
-- [NodeJs Express + Bookshelf]()
-- [NodeJs Express + Mongoose]()
-- [Python Django]()
-- [Python Django + Rest Framework]()
-- [Python Flask]()
-- [Jersey]()
+- [Spring Boot + Spring Data + Jersey](https://github.com/melardev/SpringBootJerseyApiPaginatedCrud)
+- [Spring Boot + Spring Data](https://github.com/melardev/SpringBootApiJpaPaginatedCrud)
+- [Go with Gin Gonic](https://github.com/melardev/GoGinGonicApiPaginatedCrud)
+- [Laravel](https://github.com/melardev/LaravelApiPaginatedCrud)
+- [Rails + JBuilder](https://github.com/melardev/RailsJBuilderApiPaginatedCrud)
+- [Rails](https://github.com/melardev/RailsApiPaginatedCrud)
+- [NodeJs Express + Sequelize](https://github.com/melardev/ExpressSequelizeApiPaginatedCrud)
+- [NodeJs Express + Bookshelf](https://github.com/melardev/ExpressBookshelfApiPaginatedCrud)
+- [NodeJs Express + Mongoose](https://github.com/melardev/ExpressApiMongoosePaginatedCrud)
+- [Python Django](https://github.com/melardev/DjangoApiCrudPaginated)
+- [Python Django + Rest Framework](https://github.com/melardev/DjangoRestFrameworkPaginatedCrud)
+- [Python Flask](https://github.com/melardev/FlaskApiPaginatedCrud)
 
 The next come are:
 - NodeJs Express + Knex
